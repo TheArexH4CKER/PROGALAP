@@ -1,0 +1,21 @@
+* {
+    text-align: center;
+}
+
+.sarga {
+    background-color: rgb(243, 243, 0);
+    color: black;
+    font-weight: bold;
+}
+.red {
+    background-color: rgba(255, 179, 0, 0);
+    color: rgb(0, 110, 255);
+}
+table,td,tr,th {
+    border: 2px solid black;
+}
+
+thead, tfoot {
+    background-color: rgb(186, 230, 173);
+    color: black;
+}
